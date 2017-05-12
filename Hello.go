@@ -7,5 +7,6 @@ func main() {
 	fmt.Println("Nikolai Holmen Dyb\n")
 	fmt.Println("Sindre Thompson\n")
 	fmt.Println("Shiwan Hassan has been here\n")
+	fmt.Println("Ella Krossen\n")
 
 }
