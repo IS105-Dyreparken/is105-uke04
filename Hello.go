@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("Shiwan Hassan has been here\n")
 	fmt.Println("Ella Krossen\n")
 	fmt.Println("Benjamin AG Sandøy\n")
+	fmt.Println("Erik Yang\n")
 
 }
