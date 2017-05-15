@@ -173,12 +173,18 @@ Kode for oppgave 4 og 5 er hentet fra: https://github.com/Gruppe12IS105/ICA01.
 For å kjøre main.go filen må man skrive: «go run main.go x y», der x og y er tall. X må være enten tallet 2 eller 10, Y kan være hvilket som helst tall.
 Filen log.go innholder koden for deloppgave 6 også det er grunnen for at man må definere både X og Y- verdi.
 
-Beskrivelse av koden log.go: Dette er en pakke som har blitt kalt «function». Koden inneholder import av fmt, os, math og strconv. Pakken fmt gir oss flere muligheter til å formatere ulike verdier, dette gjøres ved hjelp av utskrift «verb». OS pakken gir en plattform som er uavhengig av grensesnitt til operativ-funksjonalitet. Pakken «math» gir grunnleggende konstanter og matematiske funksjoner, «strconv» gir muligheten til å konvertere til og fra «String» av grunnleggende data typer.
-På linje 10 linje har vi en funksjon med navet «LogariteFunc». Base står for argument 1 og tall står for argument 2. Tall float på linje 13 konverterer argument 2 til en float 64 verdi. På linje 14 konverters argument 1 fra string til int ved hjelp av «.Atoi».
+Beskrivelse av koden log.go: Dette er en pakke som har blitt kalt «function». Koden inneholder import av fmt, os, math og strconv.
+Pakken fmt gir oss flere muligheter til å formatere ulike verdier, dette gjøres ved hjelp av utskrift «verb».
+OS pakken gir en plattform som er uavhengig av grensesnitt til operativ-funksjonalitet.
+Pakken «math» gir grunnleggende konstanter og matematiske funksjoner, «strconv» gir muligheten til å konvertere til og fra «String» av grunnleggende data typer.
+
+På linje 10 linje har vi en funksjon med navet «LogariteFunc». "Base" står for argument 1 og "tall" står for argument 2. Tall float på linje 13 konverterer argument 2 til en float 64 verdi.
+På linje 14 konverters argument 1 fra string til int ved hjelp av «.Atoi».
 Beskrivelse av koden main.go: I denne filen har vi main pakken, som importere pakken function. Og kjører funksjonen som ligger i den.
-Til slutt har vi en if setning som sier: hvis basefloat er det samme som 2, så printer den ut svare i form av math.log2, dette betyr at den blir beregnet med base av 2.
+Mot slutten ser vi en if-setning som sier: hvis basefloat er det samme som 2, så printer den ut svare i form av math.log2, dette betyr at den blir beregnet med base av 2.
 Hvis basefloat er 10 blir det samme gjort, men svaret blir beregnet i form av math.log10 som er beregning gjort i base 10.
-Til slutt vil vi få en veiledende respons om kriteriene for at kjøring av filen ikke er oppfylt.  
+Til slutt vil vi få en veiledende respons om kriteriene for at kjøring av filen ikke er oppfylt. 
+
 Alle programmeringsmiljøer er forskjellige, og krever derfor litt forskjellig tankegang.
 I Go sitt tilfelle er riktig mappestruktur en sentral del for at alt skal fungere slik man vil.
 Hvis man setter GOPATH feil, eller ikke legger prosjektene i GOPATH\src, så vil ikke programmene kjøre.
