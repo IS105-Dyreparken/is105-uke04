@@ -4,11 +4,11 @@ De fleste kjenner til 10-tallsystemet(desimaltallsystemet), dette systemet er ba
 Det finnes flere tallsystemer. Det binære(2-tallsystemet) er et av disse, som er da basert på 2 tall(0 og 1).
 Det er dette tallsystemet som maskinen forstår, og det er derfor nødvendig for oss å kjenne til bruken av det.
 For å telle binære tall leses disse fra høyre til venstre, i motsetning til 10-tallsystemet blir binære tall-verdier 2 ganger så høye for hver sifferplassering til venstre.
-Et eksempel på hvordan konvertering av 2 tallsystemet funker:
+|Et eksempel på hvordan konvertering av 2 tallsystemet funker|
 | :---: | :---: | :---: | :---: | :---: |
-| 2^4 | 2^3 | 2^2 | 2^1 | 2^1 |
-| 16 | 8 | 4 | 2 | 1 |
-| 0 | 1 | 0 | 1 |
+| 2^4   | 2^3   | 2^2   | 2^1   | 2^1   |
+| 16    | 8     | 4     | 2     | 1     |
+| 0     | 1     | 0     | 1     | 1     |
 
 
 For å regne ut tall der du ikke finner verdien direkte i tallsystemet, slik som tallet 5, tar du det binære tallet som er nærmest; f.eks med tallet 22:22 = 16 + 6. Problemet som oppstår her er at tallet 6 finnes ikke i 2-tallsystemet, for å løse dette problemet kan vi gjøre følgende.
