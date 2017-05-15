@@ -43,6 +43,7 @@ Når vi regner fra binært til desimal, så legge vi sammen alle verdier som er 
 
 4+0+0 = 4(ti)
 
+
 (2) 1001(to)	2^3 + 2^0 = 9(ti)
 
 |   |   |   |   |
@@ -51,6 +52,7 @@ Når vi regner fra binært til desimal, så legge vi sammen alle verdier som er 
 |1  |0  |0  |1  |
 
 8+0+0+1=9(ti)
+
 
 (3) 1100110011(to)  2^9 + 2^8 + 2^5 +2^4 +2^1 + 2^0 = 819(ti)
 
