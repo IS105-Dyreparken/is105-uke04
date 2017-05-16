@@ -1,4 +1,4 @@
-# ICA06 for gruppe 2, Dyreparken
+# ICA01 for gruppe 2, Dyreparken
 
 Består av:  
 
