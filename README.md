@@ -1,1 +1,15 @@
-# is105-uke04
+# ICA06 for gruppe 2, Dyreparken
+
+Består av:  
+
+Dyb, Nikolai Holmen
+
+Hassan, Shiwan
+
+Krossen, Ella
+
+Sandøy, Benjamin AG
+
+Thompson, Sindre  
+
+Yang, Erik
