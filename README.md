@@ -14,7 +14,7 @@ Dokumentasjon og beskrivelsene av oppgavene 1.2.1 til 1.2.4 er lagt i  mapper. O
 
 # ICA01 for gruppe 2, Dyreparken
 
-Består av:  
+Deltaker:  
 
 Dyb, Nikolai Holmen
 
